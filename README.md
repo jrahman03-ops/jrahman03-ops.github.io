@@ -4,7 +4,7 @@
 
 This repository holds the website for Hadnet Innovations, an independent invention company led by Jabbar Abdurrahman. *Hadnet* is the Tigrinya word for unity.
 
-Live site: https://jrahman03-ops.github.io
+Live site: https://hadnetinnovations.com
 
 ## Projects featured
 
