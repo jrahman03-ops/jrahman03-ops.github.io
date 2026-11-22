@@ -1,6 +1,6 @@
 # Hadnet Innovations
 
-**Where constant iteration means innovation.**
+**Where constant iteration breeds innovation.**
 
 This repository holds the website for Hadnet Innovations, an independent invention company led by Jabbar Abdurrahman. *Hadnet* is the Tigrinya word for unity.
 
@@ -15,9 +15,22 @@ Live site: https://jrahman03-ops.github.io
 
 All projects are early-stage concepts and have not been built or tested.
 
+## Site map (MVP)
+
+| Page | File |
+|---|---|
+| Home | `index.html` |
+| CRYO-OCTA | `cryo-octa.html` |
+| Project AETHER-3 | `aether-3.html` |
+| Quantum Logistics (service, high level only) | `quantum-logistics.html` |
+| About Jabbar | `about.html` |
+| Contact | `contact.html` |
+
+Shared styles, logos and images are in `assets/`.
+
 ## How the site works
 
-- It's a single page, `index.html`, with no build step or framework.
+- Plain HTML and CSS, with no build step or framework.
 - GitHub Pages publishes it automatically from the `main` branch. A change shows up on the live site a few minutes after it's committed.
 
 ## Contact
