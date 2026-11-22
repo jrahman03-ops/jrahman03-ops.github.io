@@ -23,6 +23,6 @@ All projects are early-stage concepts and have not been built or tested.
 ## Contact
 
 - Email: jabbar@hadnetinnovations.com
-- LinkedIn: https://www.linkedin.com/in/jabbar-abdur-rahman-ab117024
+- LinkedIn: https://www.linkedin.com/in/jabbar-abdurrahman-ab117024
 
 © 2026 Hadnet Innovations. All rights reserved.
